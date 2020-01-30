@@ -1,5 +1,5 @@
 html {
-  font-family: proxima nova, sans-serif;
+  font-family: "proxima nova", sans-serif;
   font-family: abril-display, serif;
   background-color: #fbfbf8;
 }
@@ -10,20 +10,20 @@ h1 {
 }
 
 .subber {
-  font-family: proxima nova, sans-serif;
+  font-family: "proxima nova", sans-serif;
   font-weight: 700;
 }
 
 nav a {
   text-decoration: none;
-  font-family: proxima nova, sans-serif;
+  font-family: "proxima nova", sans-serif;
   border-bottom: solid 4px black;
   color: black;
   display: block;
 }
 
 .title {
-  font-family: proxima nova, sans-serif;
+  font-family: "proxima nova", sans-serif;
   font-weight: 700;
   font-style: normal;
   color: maroon;
@@ -33,4 +33,8 @@ nav a {
   font-family: abril-display, serif;
   font-weight: normal;
   font-style: normal;
+}
+
+.btn {
+  font-family: "proxima nova", sans-serif;
 }
